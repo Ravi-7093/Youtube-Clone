@@ -14,11 +14,17 @@ This project aims to replicate the core functionality and user interface of YouT
 
 ## Technology Stack
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" alt="React.js" width="20" height="20"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="20" height="20"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" title="React-Router" alt="React-Router" width="20" height="20"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="20" height="20"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="20" height="20"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="20" height="20"/>&nbsp;
+          
+          
 The YouTube Clone App is built using the following technologies:
 
-- **React.js** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" alt="React.js" width="20" height="20"/>&nbsp;/>
-: A JavaScript library for building user interfaces, providing a fast and efficient way to develop interactive UI components. 
-          
+- **React.js**: A JavaScript library for building user interfaces, providing a fast and efficient way to develop interactive UI components.          
 - **Material UI**: A popular React UI framework that offers pre-designed components and styles, enabling rapid development and consistent design across the application.
 - **React Router**: A routing library for React applications, used to define navigation paths and handle URL routing within the YouTube Clone App.
 - **Axios**: A promise-based HTTP client for making asynchronous requests, utilized for fetching data from the YouTube Data API.
