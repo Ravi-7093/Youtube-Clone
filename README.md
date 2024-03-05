@@ -12,7 +12,7 @@ This project aims to replicate the core functionality and user interface of YouT
 - Profile pages for users to manage their content and preferences
 - Search functionality for discovering specific videos or channels
 
-<span class="material-icons-two-tone">construction</span> ## Technology Stack    
+ ## Technology Stack    
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" alt="React.js" width="60" height="60"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
