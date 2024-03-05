@@ -1,4 +1,4 @@
-### YouTube Clone App
+# YouTube Clone App
 
 ## Project Overview
 
