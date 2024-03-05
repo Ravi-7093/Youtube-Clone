@@ -16,7 +16,8 @@ This project aims to replicate the core functionality and user interface of YouT
 
 The YouTube Clone App is built using the following technologies:
 
-- **React.js**: A JavaScript library for building user interfaces, providing a fast and efficient way to develop interactive UI components.
+- **React.js** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" alt="React.js" width="20" height="20"/>&nbsp;/>
+: A JavaScript library for building user interfaces, providing a fast and efficient way to develop interactive UI components. 
           
 - **Material UI**: A popular React UI framework that offers pre-designed components and styles, enabling rapid development and consistent design across the application.
 - **React Router**: A routing library for React applications, used to define navigation paths and handle URL routing within the YouTube Clone App.
