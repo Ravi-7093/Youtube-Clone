@@ -1,7 +1,7 @@
 # YouTube Clone App
 ![Screenshot 2024-03-04 at 8 49 44 PM](https://github.com/Ravi-7093/Youtube-Clone/assets/46593559/b2521efc-2695-4081-81a6-49d2074cc3b5)
 
-## Project Overview
+## Project Overview 
 
 This project aims to replicate the core functionality and user interface of YouTube, providing users with a familiar experience while exploring videos, channels, and categories. Key features of the application include:
 
@@ -12,14 +12,14 @@ This project aims to replicate the core functionality and user interface of YouT
 - Profile pages for users to manage their content and preferences
 - Search functionality for discovering specific videos or channels
 
-## Technology Stack
+## Technology Stack    <span class="material-icons-two-tone">construction</span>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" title="React-Router" alt="React-Router" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" alt="React.js" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"  title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" title="React-Router" alt="React-Router" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
           
           
 The YouTube Clone App is built using the following technologies:
