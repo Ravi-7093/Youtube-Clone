@@ -1,3 +1,40 @@
+### YouTube Clone App
+
+## Project Overview
+
+This project aims to replicate the core functionality and user interface of YouTube, providing users with a familiar experience while exploring videos, channels, and categories. Key features of the application include:
+
+- Responsive layout for seamless user experience across devices
+- Custom categories and channels for organized content discovery
+- Integration with the YouTube Data API for fetching video data
+- Video player functionality to watch videos directly within the application
+- Profile pages for users to manage their content and preferences
+- Search functionality for discovering specific videos or channels
+
+## Technology Stack
+
+The YouTube Clone App is built using the following technologies:
+
+- **React.js**: A JavaScript library for building user interfaces, providing a fast and efficient way to develop interactive UI components.
+- **Material UI**: A popular React UI framework that offers pre-designed components and styles, enabling rapid development and consistent design across the application.
+- **React Router**: A routing library for React applications, used to define navigation paths and handle URL routing within the YouTube Clone App.
+- **Axios**: A promise-based HTTP client for making asynchronous requests, utilized for fetching data from the YouTube Data API.
+- **React Player**: A React component for playing videos, enabling seamless integration of video playback functionality into the application.
+- **RapidAPI**: An API marketplace and management platform used for accessing the YouTube Data API and fetching video data from YouTube's database.
+
+
+To run the YouTube Clone App locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install project dependencies using `npm install` or `yarn install`.
+3. Set up environment variables for API keys ( Rapid API ).
+4. Start the development server using `npm start` or `yarn start`.
+5. Open your web browser and navigate to `http://localhost:3000` to view the application.
+
+### Please find the website live at https://fascinating-tarsier-dbff87.netlify.app
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
